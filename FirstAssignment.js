@@ -25,9 +25,11 @@ console.log(cnt);
 const str = new Array();
 for (i=0;i<lth;i++)
 {
-    str[parseInt(s.charAt(i))]++;
+    str[s.charAt(i)]++;
 
 }  
+
+console.log(str);
 
 for (i=0;i<lth;i++)
 {
