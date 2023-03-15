@@ -5,7 +5,7 @@ public class AssignTwo {
 		// TODO Auto-generated method stub
 
 		// multi dimensional array for storing city names
-		String[][] city1 = {{"Pune","Nashik"},{"Goa","Nagpur"},{"Nashik","Tirupati"},{"Tirupati","Rameshwaram"}};
+		String[][] city1 = {{"Pune","Nashik"},{"Goa","Nagpur"},{"Nashik","Delhi"},{"Delhi","Chennai"}};
 		int i,j;
 		i=1;j=0;
 		String destination;
